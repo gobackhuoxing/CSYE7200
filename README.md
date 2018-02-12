@@ -1,4 +1,5 @@
-# CSYE7200FinalProject
+# CSYE7200 Big-Data Sys Engr Using Scala
+## FinalProject
 FinalProject by Zixuan, Jianan, and Wenbo
 
 A google search engine-based applications, to achieve a faster and more accurate search. 
